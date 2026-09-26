@@ -1,5 +1,5 @@
 # Hopper
-A series of training modules designed to build GNC fundamentals and apply them in GTPL Fall 2026 Deliverables
+A series of training modules designed to build GNC fundamentals in Rust and apply them in GTPL Fall 2026 Deliverables
 
 ## Block A · Sim tooling (Sep 28 – Oct 11)
 - Week of Sep 28: build and run rust_rocket_sim and Lander locally. Do Hopper M0. Read simulation.rs and main.rs end to end. Ask on #53 exactly what it covers.
